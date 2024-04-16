@@ -1,0 +1,19 @@
+{
+  "name": "01-survey-poll-app",
+  "version": "1.0.0",
+  "description": "Create a basic Survey/Poll application built with Node.js and Prisma.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.12.1",
+    "express": "^4.19.2",
+    "node": "^18.20.2",
+    "prisma": "^5.12.1",
+    "zod": "^3.22.4"
+  }
+}
